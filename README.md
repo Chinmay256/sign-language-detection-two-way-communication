@@ -1,1 +1,1 @@
-# signlanguagedetectionandtwowaycommunication
+In this project, we attempt to create a system that establishes two-way communication between someone who signs using ASL, a deaf or hard-of-hearing individual (the signer) and someone who cannot sign (the non-signer) using computer vision. The system consists of gesture recognition using computer vision, text-to-speech conversion, and speech-to-text conversion.
